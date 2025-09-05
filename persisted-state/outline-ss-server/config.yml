@@ -12,14 +12,6 @@ keys:
     port: 52341
     secret: Rs3sio0Bf9fIzQVbOYApeb
   - cipher: chacha20-ietf-poly1305
-    id: '3'
-    port: 52341
-    secret: xkSmH72OMbCurE024hWALt
-  - cipher: chacha20-ietf-poly1305
-    id: '4'
-    port: 52341
-    secret: KFFbFKetmBWEt11CK6SN0R
-  - cipher: chacha20-ietf-poly1305
     id: '5'
     port: 52341
     secret: N8vIQDGqjzJfbrVoxnrAHy
@@ -36,10 +28,6 @@ keys:
     port: 52341
     secret: yEuoDh3f8EnMOG7KWJiSIb
   - cipher: chacha20-ietf-poly1305
-    id: '9'
-    port: 52341
-    secret: 4rTogqRmmZ5MnX46zjcjfe
-  - cipher: chacha20-ietf-poly1305
     id: '10'
     port: 52341
     secret: yP9ydwex5PDcwEYd6mrvyC
@@ -47,10 +35,6 @@ keys:
     id: '11'
     port: 52341
     secret: XiqG4cvYoOCT3vZRF4hoiy
-  - cipher: chacha20-ietf-poly1305
-    id: '12'
-    port: 52341
-    secret: 9216Q6515gK0eWEKhE67WC
   - cipher: chacha20-ietf-poly1305
     id: '13'
     port: 52341
@@ -116,10 +100,6 @@ keys:
     port: 52341
     secret: 6sdTk46aZLcpMmW3jH4Gq2
   - cipher: chacha20-ietf-poly1305
-    id: '29'
-    port: 52341
-    secret: u9GMU4oObBBgReDAJ9O8BA
-  - cipher: chacha20-ietf-poly1305
     id: '30'
     port: 52341
     secret: YGR18vJXvbETHkaO78IefR
@@ -135,10 +115,6 @@ keys:
     id: '33'
     port: 52341
     secret: FkXydB6NlKYDptJZdEvLzB
-  - cipher: chacha20-ietf-poly1305
-    id: '34'
-    port: 52341
-    secret: DYNUK9uvFZJWNyV8CFO4kd
   - cipher: chacha20-ietf-poly1305
     id: '35'
     port: 52341
@@ -167,10 +143,6 @@ keys:
     id: '41'
     port: 52341
     secret: ZC6o2wbXIgp3If7EcGDlok
-  - cipher: chacha20-ietf-poly1305
-    id: '42'
-    port: 52341
-    secret: Rqes997LgY7a9TPDkdLWKR
   - cipher: chacha20-ietf-poly1305
     id: '43'
     port: 52341
@@ -203,3 +175,7 @@ keys:
     id: '50'
     port: 52341
     secret: PF34Vfc0BuJq04Kj7YrVOX
+  - cipher: chacha20-ietf-poly1305
+    id: '51'
+    port: 35028
+    secret: oejdhxkSOFwP8334VrdBXF
